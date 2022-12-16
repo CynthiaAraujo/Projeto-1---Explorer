@@ -31,6 +31,10 @@ body{
   background-repeat: no-repeat;
   background-position: center;
 }
+
+h1{
+  padding: 2rem auto;
+}
 h1,h3{
   color: white;
   margin-top: 1.5rem;
